@@ -6,5 +6,6 @@ A collection of links and resources related to physically-backed NFTs
 * https://www.digible.io
 * https://rtfkt.com
 * https://www.bosonprotocol.io/
+* https://github.com/pynchmeister/digiphysi-redeem
 
 

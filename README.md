@@ -10,5 +10,6 @@ A collection of links and resources related to physically-backed NFTs
 * https://github.com/pynchmeister/SafuNFT
 * https://highstreet.gitbook.io/highstreet-whitepaper/welcome-to-highstreet/preface
 * https://github.com/pynchmeister/redeem
+* https://github.com/pynchmeister/phygitals
 
 
